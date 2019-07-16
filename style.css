@@ -171,23 +171,28 @@ nav ul li a:hover {
 }
 .html {
     width: 90%;
-    animation: html 2s
+    animation: html 2s;
+    animation-iteration-count: infinite;
 }
 .css {
     width: 65%;
-    animation: css 2s
+    animation: css 2s;
+    animation-iteration-count: infinite;
 }
 .javascript {
     width: 25%;
-    animation: javascript 2s
+    animation: javascript 2s;
+    animation-iteration-count: infinite;
 }
 .jquery {
     width: 56%;
-    animation: jquery 2s
+    animation: jquery 2s;
+    animation-iteration-count: infinite;
 }
 .react {
     width: 45%;
-    animation: react 2s
+    animation: react 2s;
+    animation-iteration-count: infinite;
 }
 @keyframes html {
     0% {
